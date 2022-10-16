@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "url": "https://mainnet.infura.io/v3/07f88a2d548c42b9861a3b31b4c57ba0",
+    "defaultWallet": "0xA145ac099E3d2e9781C9c848249E2e6b256b030D",
+    "file": "D:\\EtheriumAPI\\BalanceOfToken.json"
+}
